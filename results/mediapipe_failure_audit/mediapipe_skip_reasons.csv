@@ -1,0 +1,3 @@
+﻿split,reason,count
+train,no_hand_detected,5215
+test,no_hand_detected,1271

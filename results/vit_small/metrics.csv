@@ -1,0 +1,2 @@
+model,epochs,batch_size,lr,weight_decay,accuracy,precision_macro,recall_macro,f1_macro,train_time_sec
+vit_small_patch16_224,30,16,0.0003,0.05,0.9812925170068028,0.9817887846099818,0.9812925170068026,0.9812897319260004,34493.56502389908

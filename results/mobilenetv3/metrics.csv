@@ -1,0 +1,2 @@
+model,epochs,batch_size,lr,weight_decay,accuracy,precision_macro,recall_macro,f1_macro,train_time_sec
+mobilenetv3_large_100,30,64,0.0002,0.0001,0.9887755102040816,0.9892107672651003,0.9887755102040817,0.9887662762047568,10599.301579475403

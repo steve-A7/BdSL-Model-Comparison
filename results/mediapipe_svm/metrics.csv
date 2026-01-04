@@ -1,0 +1,2 @@
+model,train_used,test_used,feature_extraction_time_sec,train_time_sec,test_inference_time_sec,accuracy,precision_macro,recall_macro,f1_macro
+mediapipe_hands + SVM(rbf),6559,1669,593.9045979976654,0.8839883804321289,0.8878588676452637,0.7855002995805872,0.7098116727918238,0.7241272485911361,0.7075983473743804
